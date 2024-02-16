@@ -1,6 +1,6 @@
 # Functional Language Interpreters with Security
 
-This repository contains implementations of two interpreters in OCaml, each incorporating unique security mechanisms.
+This repository contains implementations of two interpreters in OCaml, each incorporating unique security mechanisms. This project was developed from scratch. (Note: This is an older project originally created and distributed by me in 2021 before being uploaded in 2024 to GitHub.)
 
 ## Interpreter 1: Permission-Based Security 
 - File: `interpreter1.ml`
